@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@120.236.247.203:28564">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/code_chap_2_3/code_chap_2_3_student/exp_2_1_mnist_mlp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
